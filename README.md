@@ -13,18 +13,39 @@ public class wh {
 }
 
 2.
+package boolian;
 
+public class Postive {
+	public static void main (String[]args) {
+	int number =123;
+	if (number>0) {
+		System.out.println("The number is postive = "+number);
+	}else if(number<0) {
+		System.out.println("the num is negative ="+number);
+	}else {
+		System.out.println("the number is zero");
+	}
+	
+	}
 
+}
 
+package boolian;
 
+public class Postive {
+	public static void main (String[]args) {
+	int number =-100;
+	if (number>0) {
+		System.out.println("The number is postive = "+number);
+	}else if(number<0) {
+		System.out.println("the num is negative ="+number);
+	}else {
+		System.out.println("the number is zero");
+	}
+	
+	}
 
-
-
-
-
-
-
-
+}
 
 
 3 
