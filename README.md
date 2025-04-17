@@ -62,3 +62,24 @@ public static void main (String[]args) {
 	System.out.println("Reverse ="+reverse);
 	
 }
+
+
+5..
+
+package boolian;
+
+public class Discount {
+
+	public static void main(String[] args) {
+		int Rs = 999;
+		if (Rs<=500)
+			System.out.println("No Discount");
+		else if (Rs>500 && Rs < 1000)
+			System.out.println("10% Discount");
+			else
+				System.out.println("20 % Discount");
+		}
+	}
+
+6..
+
