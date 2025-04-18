@@ -1,4 +1,4 @@
-1.....
+1.....Using While loop print the number in 10 to 50 
 
 			package boolian;
 		
@@ -13,7 +13,7 @@
 			}
 		}
 
-2.......
+2...... Find the Negative and Postive Number
 			
    			package boolian;									
 			public class Postive {
@@ -48,7 +48,7 @@
 		}
 		
 
-3 ....
+3 ....Revers  Using Loop
 			
    			package boolian;
 			public class Revers {
@@ -63,7 +63,7 @@
 				
 }	
 
-4...
+4... Find Smallest Number
 			
    			package boolian;
   			public class smallestNumber {
@@ -98,7 +98,7 @@
 
 	}
 
-5..
+5.....Discount
 
 			package boolian;
 		
@@ -115,7 +115,7 @@
 				}
 			}
 
-6..
+6..... Pattern
 			
    			package boolian;
    			public class in {
