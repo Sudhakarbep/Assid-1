@@ -14,7 +14,9 @@
 		}
 
 2.......
-		public class Postive {
+			
+   			package boolian;									
+			public class Postive {
 			
    			public static void main (String[]args) {
 			int number =123;
@@ -47,8 +49,8 @@
 		
 
 3 ....
-			package boolian;
 			
+   			package boolian;
 			public class Revers {
 			public static void main (String[]args) {
 				int n = 876, reverse=0;
@@ -62,7 +64,9 @@
 }	
 
 4...
-		public class smallestNumber {
+			
+   			package boolian;
+  			public class smallestNumber {
 			
    			public static void main (String[]args) {
  
@@ -96,23 +100,24 @@
 
 5..
 
-	package boolian;
-
-	public class Discount {
-
-	public static void main(String[] args) {
-		int Rs = 999;
-		if (Rs<=500)
-			System.out.println("No Discount");
-		else if (Rs>500 && Rs < 1000)
-			System.out.println("10% Discount");
-			else
-				System.out.println("20 % Discount");
-		}
-	}
+			package boolian;
+		
+			public class Discount {
+		
+			public static void main(String[] args) {
+				int Rs = 999;
+				if (Rs<=500)
+					System.out.println("No Discount");
+				else if (Rs>500 && Rs < 1000)
+					System.out.println("10% Discount");
+					else
+						System.out.println("20 % Discount");
+				}
+			}
 
 6..
 			
+   			package boolian;
    			public class in {
 			public class Main {
 		    	public static void main(String[] args) {
