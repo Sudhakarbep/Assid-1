@@ -15,7 +15,8 @@
 
 2.......
 		public class Postive {
-			public static void main (String[]args) {
+			
+   			public static void main (String[]args) {
 			int number =123;
 			if (number>0) {
 				System.out.println("The number is postive = "+number);
@@ -61,10 +62,12 @@
 }	
 
 4...
-	public class smallestNumber {
-	public static void main (String[]args) {
-		        Scanner scanner = new Scanner(System.in);
-		        
+		public class smallestNumber {
+			
+   			public static void main (String[]args) {
+ 
+    			Scanner scanner = new Scanner(System.in);
+    
 		        System.out.print("Enter first number: ");
 		        int num1 = scanner.nextInt();
 
@@ -95,7 +98,7 @@
 
 	package boolian;
 
-public class Discount {
+	public class Discount {
 
 	public static void main(String[] args) {
 		int Rs = 999;
@@ -109,19 +112,20 @@ public class Discount {
 	}
 
 6..
-	public class in {
-	public class Main {
-	    public static void main(String[] args) {
-	        for (int i = 5; i >= 1; i--) {
-	            System.out.println(i);
-	            for (int j = 5; j <= 6 - i; j++) {
-	                System.out.println(j);
-	                for (int k = 1; k <= 5 - i; k++) {
-	                    System.out.println(k);
-	                }
-	            }
-	        }
-	    }
-	}
-}
+			
+   			public class in {
+			public class Main {
+		    	public static void main(String[] args) {
+			for (int i = 5; i >= 1; i--) {
+			    System.out.println(i);
+			    for (int j = 5; j <= 6 - i; j++) {
+				System.out.println(j);
+				for (int k = 1; k <= 5 - i; k++) {
+				    System.out.println(k);
+				}
+			    }
+			}
+		    }
+		}
+		}
 
